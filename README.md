@@ -2,7 +2,7 @@
 
 ## This is the web version of Proffy
 
-<p align="center">🚀 Website for students to look for teachers available to give classes and for teachers to offer classes</p>
+🚀 Website for students to look for teachers available to give classes and for teachers to offer classes
 
 ### Installation required
 
