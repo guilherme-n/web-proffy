@@ -12,7 +12,7 @@ Before running, you need to install
 ### Running the server
 
 clone this [repository](https://github.com/guilherme-n/backend-proffy) from Git
-it will listen on port 3333
+</br>. It will listen on port 3333
 
 ### 🛠 Tech Stack
 
